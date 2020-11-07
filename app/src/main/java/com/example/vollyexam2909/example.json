@@ -1,0 +1,127 @@
+{
+  "status": true,
+  "message": "Product has been accessed successfully!",
+  "product_data": {
+    "heading_title": "Real Pomegranate juice",
+    "product_id": "4",
+    "manufacturer": "REAL",
+    "model": "Real Juice",
+    "reward": null,
+    "points": "0",
+    "product_info": {
+      "product_id": "4",
+      "name": "Real Pomegranate juice",
+      "description": "&lt;span style=&quot;color: rgb(102, 102, 102); font-size: 18px;&quot;&gt;Fresho is our brand of fresh fruits and vegetables which are individually handpicked everyday by our experienced and technically competent buyers. Our buying, storing and packaging processes are tailored to ensure that only the fresh, nutrient dense, healthy and delicious produce reaches your doorstep.&amp;nbsp;&lt;/span&gt;",
+      "meta_title": "Real Pomegranate juice",
+      "meta_description": "Real Pomegranate juice",
+      "meta_keyword": "Real Pomegranate juice",
+      "tag": "Real Pomegranate juice",
+      "model": "Real Juice",
+      "sku": "",
+      "upc": "",
+      "ean": "",
+      "jan": "",
+      "isbn": "",
+      "mpn": "",
+      "location": "rohtak",
+      "quantity": "884",
+      "stock_status": "2-3 Days",
+      "image": "catalog/juice/anar.jpg",
+      "manufacturer_id": "129",
+      "manufacturer": "REAL",
+      "price": "0.0000",
+      "special": null,
+      "ori_price": "0.0000",
+      "reward": null,
+      "points": "0",
+      "tax_class_id": "0",
+      "date_available": "2017-04-07",
+      "weight": "1.00000000",
+      "weight_class_id": "1",
+      "length": "0.00000000",
+      "width": "0.00000000",
+      "height": "0.00000000",
+      "length_class_id": "2",
+      "subtract": "1",
+      "rating": 0,
+      "reviews": 0,
+      "minimum": "1",
+      "sort_order": "1",
+      "status": "1",
+      "date_added": "2017-04-07 06:30:54",
+      "date_modified": "2020-10-08 04:32:36",
+      "viewed": "379"
+    },
+    "description": "<span style=\"color: rgb(102, 102, 102); font-size: 18px;\">Fresho is our brand of fresh fruits and vegetables which are individually handpicked everyday by our experienced and technically competent buyers. Our buying, storing and packaging processes are tailored to ensure that only the fresh, nutrient dense, healthy and delicious produce reaches your doorstep.&nbsp;</span>",
+    "stock": "In Stock",
+    "popup": "https://ozonewallet.in/supermarket/image/catalog/juice/anar.jpg",
+    "thumb": "https://ozonewallet.in/supermarket/image/catalog/juice/anar.jpg",
+    "images": [],
+    "special": false,
+    "options": [],
+    "product_option_value_data": [
+      {
+        "product_id": "4",
+        "quantity": "1000",
+        "subtract": "1",
+        "price": "109.0000",
+        "option_orig_price": "110.0000",
+        "price_prefix": "+",
+        "points": "0",
+        "points_prefix": "+",
+        "weight": "0.00000000",
+        "weight_prefix": "+",
+        "name": "1 ltr",
+        "product_option_id": "1575",
+        "product_option_value": "2066",
+        "option_id": "5"
+      }
+    ],
+    "minimum": "1",
+    "reviews": 0,
+    "rating": 0,
+    "attribute_groups": [
+      {
+        "attribute_group_id": "3",
+        "name": "Memory",
+        "attribute": [
+          {
+            "attribute_id": "4",
+            "name": "test 1",
+            "text": "35.1% pomegranate concentrate element along with sugar, liquid glucose, acidity regulators and antioxidants."
+          }
+        ]
+      }
+    ],
+    "products": [
+      {
+        "product_id": "1068",
+        "thumb": "https://ozonewallet.in/supermarket/image/catalog/aaaaaa ramdev/117.png",
+        "name": "Aarogya Biscuit ",
+        "description": "Now buy patanjali products in Rohtak On ozone wallet. Now buy Patanjali organic products on ozone wallet in Rohtak.&nbsp;It&nbsp;is easily digestible even for children and beneficial in constipation and stomach diseases.&nbsp;..",
+        "price": "0.0000",
+        "special": false,
+        "minimum": "1",
+        "rating": null,
+        "product_option_value_data": [
+          {
+            "product_id": "1068",
+            "quantity": "1000",
+            "subtract": "1",
+            "price": "10.0000",
+            "option_orig_price": "10.0000",
+            "price_prefix": "+",
+            "points": "0",
+            "points_prefix": "+",
+            "weight": "0.00000000",
+            "weight_prefix": "+",
+            "name": "100 gm",
+            "product_option_id": "983",
+            "product_option_value": "1248",
+            "option_id": "5"
+          }
+        ]
+      }
+    ]
+  }
+}
